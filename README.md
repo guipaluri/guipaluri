@@ -39,3 +39,4 @@
   <a href="https://www.linkedin.com/in/guilherme-paluri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://psnprofiles.com/Palalumo" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
    <a href="https://steamcommunity.com/id/palalume/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+   <img src="https://img.shields.io/badge/Palalume%235177-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>

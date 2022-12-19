@@ -1,5 +1,4 @@
-### Hi there, I’m Guilherme 👋
-##
+<h1 align="center">Hi there, I’m Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔭 I’m currently working with Back-end
 - 🌱 I’m currently learning Cloud computing
@@ -32,7 +31,8 @@
   
     
 ##
- 
+  
+  <b>Find me</b>
  <div> 
   <a href="https://instagram.com/guipaluri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/guilherme.paluri/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>

@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/guipaluri">
-  <img height="160em" src="https://github-readme-stats-gamma-green.vercel.app/api?username=guipaluri&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github.com/PencilNavigator/readme-stats-URL/api?username=guipaluri&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=guipaluri&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>

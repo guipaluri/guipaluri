@@ -25,7 +25,7 @@
   <img align="center" alt="Gui-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Gui-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Gui-GitHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Gui-GitHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;"src= "https://media3.giphy.com/media/hVmfCpIZurmRd3iiLr/giphy.gif?cid=790b761113e5e03e2bfa0719b1e69036a7d70e2b887e370e&rid=giphy.gif&ct=s">
 </div>
   
